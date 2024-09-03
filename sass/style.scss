@@ -6,6 +6,7 @@
 }
 
 .container {
+    position: relative;
     max-width: 945px;
     margin: 0 auto;
 }
@@ -17,6 +18,7 @@
 @import 'blocks/advantages';
 @import 'blocks/consultation';
 @import 'blocks/forms';
+@import 'blocks/carousel';
 
 
 @import 'base/media';
